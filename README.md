@@ -1,6 +1,6 @@
 ### 1. Calculating Wavelengths falling under Bad-Columns
 
-<img src="C:\Users\dishendra\Desktop\bad column\images\bad_cols.jpg" style="zoom: 67%;" />
+<img src="images\bad_cols.jpg" style="zoom: 67%;"/>
 
 ```she
 python calc_wasted_waves.py
