@@ -1,4 +1,4 @@
-### 1. Calculating Wavelengths falling under Bad-Columns
+### 1. Calculating Wavelengths falling under Bad-Columns of 6k CCD
 
 <img src="images\bad_cols.jpg" style="zoom: 67%;"/>
 
